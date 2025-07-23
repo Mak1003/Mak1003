@@ -45,14 +45,14 @@
 🔹 **Pune Rent Prediction**  
 > ML model with SQLite backend + Power BI dashboard for property rental predictions.
 
-> 🔍 More Projects → [Check My Repositories »](https://github.com/YourGitHubUsername?tab=repositories)
+> 🔍 More Projects → [Check My Repositories »](https://github.com/Mak1003?tab=repositories)
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&column=7&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mak1003&theme=radical&column=7&no-bg=true&no-frame=true" />
 </p>
 
 ---
@@ -60,11 +60,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mak1003&show_icons=true&theme=radical&count_private=true" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mak1003&theme=radical" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mak1003&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/Mak1003/Mak1003/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
