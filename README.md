@@ -88,8 +88,8 @@
 
 ## 📫 Let’s Connect!
 
-💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
-📧 Email: mahesh.kharote@example.com  
+💼 [LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/mahesh-kharote-64abb7185/))  
+📧 Email: maheshkharote2580@gmail.com  
 🌐 Portfolio: [maheshkharote.dev](https://your-portfolio-link.com) *(coming soon)*  
 📂 Resume: [Download Resume](https://drive.google.com/your-resume-link)
 
