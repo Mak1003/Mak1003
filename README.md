@@ -23,7 +23,7 @@
 ## 🧠 Skills & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,bash,git,linux,mysql,mongodb,react,nodejs,express,flask,threejs,figma,opencv,tensorflow,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,bash,git,linux,mysql,mongodb,react,nodejs,express,flask,threejs,figma,opencv,tensorflow,arduino,java" />
 </p>
 
 ---
