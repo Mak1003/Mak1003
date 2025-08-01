@@ -62,7 +62,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mak1003&show_icons=true&theme=radical&count_private=true" />
   <br />
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mak1003&theme=radical)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mak1003&theme=radical)](https://git.io/streak-stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mak1003&layout=compact&theme=radical" />
 </p>
