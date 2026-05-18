@@ -313,13 +313,16 @@ End-to-end ML pipeline with dashboard.
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Mak1003&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=ff6a00&icon_color=ff6a00&title_color=ff6a00&text_color=e8e8e8&count_private=true&include_all_commits=true&rank_icon=github" />
+<!-- Stats card — using anuraghazra's official instance -->
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Mak1003&show_icons=true&theme=tokyonight&bg_color=0a0a0a&border_color=ff6a00&icon_color=ff6a00&title_color=ff6a00&text_color=e8e8e8&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" />
 &nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mak1003&layout=compact&theme=dark&bg_color=0a0a0a&border_color=ff6a00&title_color=ff6a00&text_color=e8e8e8&langs_count=8&hide=html,css" />
+<!-- Top languages card -->
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mak1003&layout=compact&theme=tokyonight&bg_color=0a0a0a&border_color=ff6a00&title_color=ff6a00&text_color=e8e8e8&langs_count=8&hide=html,css&cache_seconds=1800" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mak1003&theme=dark&background=0a0a0a&border=ff6a00&stroke=ff6a00&ring=ff6a00&fire=ff2020&currStreakNum=ffffff&sideNums=ff6a00&currStreakLabel=ff6a00&sideLabels=888899&dates=888899" />
+<!-- Streak stats — herokuapp is dead, use demolab instead -->
+<img src="https://streak-stats.demolab.com/?user=Mak1003&theme=dark&background=0a0a0a&border=ff6a00&stroke=ff6a00&ring=ff6a00&fire=ff2020&currStreakNum=ffffff&sideNums=ff6a00&currStreakLabel=ff6a00&sideLabels=888899&dates=888899&hide_border=false" />
 
 </div>
 
