@@ -1,29 +1,48 @@
-<!-- ██████████████████████████████████████████████████████████ -->
-<!--           MAHESH KHAROTE — GITHUB PROFILE README          -->
-<!--     Car · Bike · Hacker · Mechanical · Backend · AI       -->
-<!-- ██████████████████████████████████████████████████████████ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=220&section=header&text=MAHESH%20KHAROTE&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Innovator%20%E2%80%A2%20Real-Time%20Systems%20%E2%80%A2%20IoT%20Architect&descAlignY=62&descSize=17&descColor=ff6a00" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=240&section=header&text=MAHESH%20KHAROTE&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Innovator%20%E2%80%A2%20Real-Time%20Systems%20%E2%80%A2%20IoT%20Architect&descAlignY=60&descSize=18&descColor=ff6a00" width="100%" />
 
 <div align="center">
 
-<a href="https://github.com/Mak1003">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2600&pause=900&color=FF6A00&center=true&vCenter=true&multiline=false&width=680&height=48&lines=⚙+Backend+Engineer+%26+Real-Time+Systems+Dev;🤖+AI+%7C+IoT+%7C+Research+Intern+%40+CDAC+Pune;💡+Building+Futuristic+Intelligent+Systems;🚀+Open+to+Hybrid+%26+Remote+Opportunities;⚡+15%25+Downtime+Reduction+%40+Varroc+Engineering" alt="Typing SVG" />
-</a>
+<!-- TYPING SVG — no emojis in URL params, fully encoded -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=19&duration=2400&pause=1000&color=FF6A00&center=true&vCenter=true&width=720&height=52&lines=Backend+Engineer+%26+Real-Time+Systems+Dev;Research+Intern+%40+CDAC+Pune+%7C+HPC+%26+Simulation;AI+%7C+IoT+%7C+CNN+%7C+LSTM+%7C+FastAPI+%7C+WebSockets;Building+GloveX%2B+%E2%80%94+AI+Smart+Glove+for+Sign+Language;Open+to+Hybrid+%26+Remote+Opportunities" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Mak1003&style=for-the-badge&color=ff6a00&label=PROFILE+VIEWS&labelColor=0a0a0a" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Mak1003?style=for-the-badge&color=00ff41&labelColor=0a0a0a&label=FOLLOWERS&logo=github" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-00ff41?style=for-the-badge&labelColor=0a0a0a&logo=checkmarx&logoColor=00ff41" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/LOCATION-INDIA-ff6a00?style=for-the-badge&labelColor=0a0a0a&logo=googlemaps&logoColor=ff6a00" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Mak1003&style=for-the-badge&color=ff6a00&label=PROFILE+VIEWS&labelColor=0a0a0a" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Mak1003?style=for-the-badge&color=00ff41&labelColor=0a0a0a&label=FOLLOWERS&logo=github" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff41?style=for-the-badge&labelColor=0a0a0a&logo=checkmarx&logoColor=00ff41" />
+&nbsp;
+<img src="https://img.shields.io/badge/INDIA-HYBRID%20%2F%20REMOTE-ff6a00?style=for-the-badge&labelColor=0a0a0a&logo=googlemaps&logoColor=ff6a00" />
 
 </div>
+
+---
+
+## 🎯 Why Hire Me?
+
+> I don't just write code — I engineer systems that perform under pressure, scale under load, and ship on time.
+
+<table>
+<tr>
+<td align="center" width="25%">
+<h3>⚡ Speed</h3>
+Real-time pipelines<br/><b>sub-50ms latency</b><br/>MQTT · WebSockets · Async
+</td>
+<td align="center" width="25%">
+<h3>🤖 Intelligence</h3>
+End-to-end AI systems<br/><b>CNN · LSTM · Vertex AI</b><br/>Model to production
+</td>
+<td align="center" width="25%">
+<h3>📉 Impact</h3>
+Delivered <b>15% downtime</b><br/><b>reduction</b> @ Varroc Eng<br/>via data-driven automation
+</td>
+<td align="center" width="25%">
+<h3>🏗️ Scale</h3>
+HPC research @ CDAC<br/><b>Simulation · Pipelines</b><br/>Precision-critical systems
+</td>
+</tr>
+</table>
 
 ---
 
@@ -34,16 +53,16 @@
 <td width="50%" valign="top">
 
 ```yaml
-name:       Mahesh Anil Kharote
-role:       Backend Engineer & AI Innovator
-location:   India (Open to Hybrid / Remote)
-current:    Research Intern @ CDAC Pune
-degree:     B.Tech Computer Science (2023–2026)
-             Symbiosis Institute of Technology
-diploma:    Polymer/Plastics Eng — CIPET (2020–23)
-focus:      Real-Time Systems · AI · IoT · HPC
-building:   GloveX+ (AI Smart Glove)
-status:     ENGINE_ONLINE 🟢
+name:         Mahesh Anil Kharote
+title:        Backend Engineer & AI Innovator
+location:     India  |  Hybrid / Remote Ready
+current:      Research Intern @ CDAC Pune
+education:    B.Tech CS — Symbiosis Institute of Tech
+              Diploma Eng — CIPET (2020-23)
+experience:   CDAC Pune (2025-) · Varroc Eng (2023)
+specialty:    Real-Time · IoT · AI · HPC · Backend
+now_building: GloveX+ — AI Smart Glove
+status:       ENGINE_ONLINE  AVAILABLE
 ```
 
 </td>
@@ -51,14 +70,15 @@ status:     ENGINE_ONLINE 🟢
 
 ```javascript
 const mahesh = {
-  passion:     "Real-world impact through code",
-  specialties: ["Backend", "AI/ML", "IoT"],
-  stack:       ["Node.js", "Python", "Java", "C++"],
-  protocols:   ["MQTT", "WebSockets", "REST"],
-  databases:   ["MongoDB", "MySQL", "PostgreSQL"],
-  cloud:       ["AWS EC2/S3", "Docker", "Linux"],
-  philosophy:  "Build fast. Deploy smart. Scale hard.",
-  available:   true  // ← hire me!
+  mission:    "Real-world impact through code",
+  backend:    ["Node.js", "Spring Boot", "FastAPI"],
+  languages:  ["Python", "Java", "C++", "JavaScript"],
+  ai_stack:   ["CNN", "LSTM", "TensorFlow", "PyTorch"],
+  protocols:  ["MQTT", "WebSockets", "REST"],
+  databases:  ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
+  cloud:      ["AWS EC2/S3", "Docker", "Linux", "CI/CD"],
+  philosophy: "Build fast. Scale smart. Deploy hard.",
+  hire_me:    true  // yes, seriously
 }
 ```
 
@@ -66,6 +86,35 @@ const mahesh = {
 </tr>
 </table>
 
+---
+
+## 📊 Impact at a Glance
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><h2>🟢</h2><h3>Active</h3><sub>Research @ CDAC Pune</sub></td>
+<td align="center"><h2>15%</h2><h3>Downtime Cut</h3><sub>Varroc Engineering</sub></td>
+<td align="center"><h2>9</h2><h3>Projects Built</h3><sub>AI · IoT · Backend</sub></td>
+<td align="center"><h2>5</h2><h3>Certifications</h3><sub>Google Cloud · SAP</sub></td>
+<td align="center"><h2>3</h2><h3>Languages</h3><sub>EN · HI · MR</sub></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🔧 Currently Building
+
+| Status | Project | Stack | Goal |
+|:------:|:--------|:------|:-----|
+| 🔴 Active | **GloveX+** — AI Smart Glove for gesture recognition & sign language | `Python` `TensorFlow` `Arduino` `C` | Accessibility for differently-abled |
+| 🟡 In Dev | **Voice Emotion & Wellness AI** — Real-time mental health assistant | `PyTorch` `CNN` `LSTM` `FastAPI` `WebSockets` | Sub-50ms emotion inference |
+| 🟡 In Dev | **AI Smart Mirror** — AR virtual cloth try-on + ESP32 IoT hardware | `Three.js` `WebGL` `MediaPipe` `ESP32` | Smart retail + smart home |
+
+---
 
 ## 🛠️ Tech Arsenal
 
@@ -91,12 +140,12 @@ const mahesh = {
 ![WebSockets](https://img.shields.io/badge/WebSockets-0a0a0a?style=for-the-badge&logo=socket.io&logoColor=00ff41)
 ![MQTT](https://img.shields.io/badge/MQTT-0a0a0a?style=for-the-badge&logo=mqtt&logoColor=00ff41)
 
-**AI / ML**
+**AI & Machine Learning**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0a?style=for-the-badge&logo=tensorflow&logoColor=ff6a00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0a?style=for-the-badge&logo=pytorch&logoColor=ff6a00)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0a?style=for-the-badge&logo=opencv&logoColor=ff6a00)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0a0a0a?style=for-the-badge&logo=scikitlearn&logoColor=ff6a00)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0a0a0a?style=for-the-badge&logo=scikitlearn&logoColor=ff6a00)
 ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-0a0a0a?style=for-the-badge&logo=googlecloud&logoColor=ff6a00)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0a0a0a?style=for-the-badge&logo=google&logoColor=ff6a00)
 
@@ -106,9 +155,10 @@ const mahesh = {
 ![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=00ff41)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=00ff41)
 ![Redis](https://img.shields.io/badge/Redis-0a0a0a?style=for-the-badge&logo=redis&logoColor=ff2020)
-![AWS](https://img.shields.io/badge/AWS-0a0a0a?style=for-the-badge&logo=amazonaws&logoColor=ff6a00)
+![AWS](https://img.shields.io/badge/AWS%20EC2%2FS3-0a0a0a?style=for-the-badge&logo=amazonaws&logoColor=ff6a00)
 ![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=00ff41)
 ![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=c0c0c0)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=ff6a00)
 
 **Frontend & 3D**
 
@@ -130,144 +180,126 @@ const mahesh = {
 ## 🚀 Featured Projects
 
 <details open>
-<summary><b>⚡ Click to explore all 9 projects</b></summary>
+<summary><b>9 Projects — AI · IoT · Backend · Systems</b></summary>
 
 <br/>
 
-### 🤖 Flagship AI Systems
+### Flagship AI Systems
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **🧠 Voice Emotion & Wellness AI**
-
-> Real-time mental wellness assistant that monitors speech, detects emotions, analyzes environmental sounds, and delivers psychologically adaptive responses.
+> Real-time mental health assistant — monitors speech 24/7, detects 8 emotional states, analyzes environment, delivers adaptive psychological responses in under 50ms.
 
 - 8-class emotion detection (happiness, sadness, anger, stress, fear, excitement, neutrality, frustration)
 - MFCC + Chroma + Spectral Contrast feature pipeline
-- Real-time WebSocket audio streaming with sub-50ms latency
-- Personalized wellness recommendations (music, meditation, breathing)
-- Multilingual NLP + long-term mood analytics dashboard
+- Sub-50ms WebSocket audio streaming inference
+- Multilingual NLP + long-term mood analytics
+- Personalized wellness: music, meditation, breathing
 
-`Python` `TensorFlow` `PyTorch` `FastAPI` `WebSockets` `MFCC` `LSTM` `CNN` `MongoDB` `Redis`
+`Python` `TensorFlow` `PyTorch` `FastAPI` `WebSockets` `CNN` `LSTM` `MongoDB` `Redis`
 
 </td>
 <td width="50%" valign="top">
 
 **🪞 AI Smart Mirror — AR/VR Try-On**
-
-> Futuristic smart mirror with real-time 3D virtual cloth try-on, body pose estimation, facial emotion detection, voice control, and ESP32 IoT hardware.
+> Walk up, get tracked, and you're instantly wearing any outfit — no changing rooms. Full IoT integration, voice control, and emotion-adaptive UX.
 
 - MediaPipe + OpenPose body segmentation & skeletal tracking
-- Three.js + WebGL real-time 3D garment rendering & deformation
-- AI fashion recommendation engine (body type, mood, trends)
-- Emotion-adaptive UX with hands-free voice assistant
-- ESP32 IoT: smart lighting, ambient LEDs, gesture controls, sensors
+- Three.js + WebGL real-time 3D garment physics rendering
+- AI fashion engine (body type, mood, trend awareness)
+- Emotion-adaptive UX + hands-free voice assistant
+- ESP32 IoT: smart lighting, ambient LEDs, gesture sensors
 
-`Three.js` `WebGL` `MediaPipe` `OpenCV` `React` `FastAPI` `ESP32` `TensorFlow` `WebSockets`
+`Three.js` `WebGL` `MediaPipe` `OpenCV` `React` `FastAPI` `ESP32` `TensorFlow`
 
 </td>
 </tr>
 </table>
 
----
-
-### ⚙️ Core Engineering Projects
+### Core Engineering
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
 **🏭 Smart Factory IoT Monitor**
+Full-stack IIoT platform. Delivered measurable impact.
+- **15% downtime reduction** at Varroc Engineering
+- MQTT device-to-server pipeline
+- Real-time anomaly detection + alerting
+- REST APIs for system integration
 
-End-to-end industrial IoT platform for real-time equipment monitoring with anomaly detection and failure prevention.
-
-- MQTT-based device-to-server communication
-- High-frequency sensor data stream processing
-- Real-time anomaly detection + automated alerting
-- REST APIs for full system integration
-
-`MQTT` `Node.js` `MongoDB` `REST API` `IoT`
+`MQTT` `Node.js` `MongoDB` `REST API`
 
 </td>
 <td width="33%" valign="top">
 
 **🔬 CDAC Simulation Modules**
+HPC research at India's premier computing institute.
+- Underwater visualization technology
+- High-speed scientific data pipelines
+- Precision-critical optimization
+- Production research environment
 
-Backend modules for high-performance real-time simulation and underwater visualization systems at CDAC Pune.
-
-- Real-time HPC data processing pipelines
-- Underwater visual filtering technology
-- Performance-critical optimization techniques
-- Precision-critical scientific computing
-
-`HPC` `Simulation` `Optimization` `Visualization`
+`HPC` `Simulation` `Optimization` `C++`
 
 </td>
 <td width="33%" valign="top">
 
 **☕ Spring Boot Backend**
-
-Production-grade RESTful backend with modular architecture, optimized MySQL, and full test coverage.
-
-- SOLID principles + clean architecture
+Clean-architecture production API.
+- SOLID principles throughout
 - MySQL indexing + query optimization
-- Full exception handling + validation
-- JUnit unit testing + Swagger docs
+- JUnit test coverage
+- Swagger API documentation
 
-`Java` `Spring Boot` `MySQL` `REST API` `JUnit`
+`Java` `Spring Boot` `MySQL` `JUnit`
 
 </td>
 </tr>
 </table>
 
----
-
-### 🔩 Innovation Projects
+### Innovation Projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**🧤 GloveX+** ← *Currently Building*
+**🧤 GloveX+** ← *Now Building*
+AI for accessibility — sign language to speech.
+- Flex sensor gesture array
+- AI sign language classifier
+- Real-time Text-to-Speech output
+- Fully wearable hardware
 
-AI-powered smart glove for real-time gesture recognition and sign language translation for the differently-abled.
-
-- Flex sensor array for gesture capture
-- AI model for sign language classification
-- Text-to-Speech real-time output
-- Wearable embedded hardware
-
-`Python` `TensorFlow` `Arduino` `Flex Sensors` `TTS` `C`
+`Python` `TensorFlow` `Arduino` `C`
 
 </td>
 <td width="33%" valign="top">
 
-**🖥️ SysMon — Linux System Monitor**
+**🖥️ SysMon — Linux Monitor**
+Terminal-based system monitor in pure C.
+- CPU, memory, network, process tracking
+- Real-time metric refresh
+- Pure C + Makefile, zero dependencies
+- Deep Linux internals knowledge
 
-Terminal-based system monitoring tool written in pure C tracking CPU, memory, network, and processes.
-
-- Real-time system metrics visualization
-- Process management interface
-- Network I/O monitoring
-- Pure C with Makefile build system
-
-`C` `Linux` `Makefile` `System Programming`
+`C` `Linux` `Makefile`
 
 </td>
 <td width="33%" valign="top">
 
 **📊 Pune Rent Prediction**
-
-ML model with SQLite backend + Power BI dashboard for property rental price predictions.
-
-- Regression model for rent prediction
-- SQLite database backend
+End-to-end ML pipeline with dashboard.
+- Regression model + feature engineering
+- SQLite backend integration
 - Power BI analytics dashboard
-- Feature engineering pipeline
+- Full ML pipeline from data to deploy
 
-`Python` `Scikit-learn` `SQLite` `Power BI` `ML`
+`Python` `Scikit-learn` `SQLite` `Power BI`
 
 </td>
 </tr>
@@ -281,9 +313,9 @@ ML model with SQLite backend + Power BI dashboard for property rental price pred
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mak1003&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=ff6a00&icon_color=ff6a00&title_color=ff6a00&text_color=e8e8e8&count_private=true&include_all_commits=true&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mak1003&layout=compact&theme=dark&bg_color=0a0a0a&border_color=ff6a00&title_color=ff6a00&text_color=e8e8e8&langs_count=8&hide=html,css" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Mak1003&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=ff6a00&icon_color=ff6a00&title_color=ff6a00&text_color=e8e8e8&count_private=true&include_all_commits=true&rank_icon=github" />
+&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mak1003&layout=compact&theme=dark&bg_color=0a0a0a&border_color=ff6a00&title_color=ff6a00&text_color=e8e8e8&langs_count=8&hide=html,css" />
 
 <br/><br/>
 
@@ -296,9 +328,7 @@ ML model with SQLite backend + Power BI dashboard for property rental price pred
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mak1003&bg_color=0a0a0a&color=ff6a00&line=ff6a00&point=00ff41&area=true&area_color=ff6a00&hide_border=false&border_color=ff6a00&radius=6&title_color=ff6a00" width="95%" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mak1003&bg_color=0a0a0a&color=ff6a00&line=ff6a00&point=00ff41&area=true&area_color=ff6a00&hide_border=false&border_color=ff6a00&radius=6&title_color=ff6a00&custom_title=Mahesh%27s%20Contribution%20Graph" width="96%" />
 </div>
 
 ---
@@ -306,9 +336,7 @@ ML model with SQLite backend + Power BI dashboard for property rental price pred
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mak1003&theme=darkhub&column=7&no-bg=true&no-frame=false&margin-w=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=Mak1003&theme=darkhub&column=7&no-bg=true&no-frame=false&margin-w=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
 </div>
 
 ---
@@ -318,16 +346,39 @@ ML model with SQLite backend + Power BI dashboard for property rental price pred
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mak1003/Mak1003/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mak1003/Mak1003/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://github.com/Mak1003/Mak1003/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Mak1003/Mak1003/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Mak1003/Mak1003/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" width="100%"
+    src="https://raw.githubusercontent.com/Mak1003/Mak1003/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
 ---
 
-## 🏅 Certifications & Achievements
+## 💼 Work Experience
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  ⚙  Research Intern — CDAC Pune                       Dec 2025 – Present   ║
+║     ▶ Backend modules for real-time simulation systems (HPC environments)   ║
+║     ▶ High-speed scientific data processing pipelines                       ║
+║     ▶ Underwater simulation & visual filtering technology                   ║
+║     ▶ Performance optimization for precision-critical workloads             ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  🏭  Project Intern — Varroc Engineering Ltd          Feb 2023 – Jun 2023  ║
+║     ▶ Built automated alerting system for industrial operations             ║
+║     ▶  DELIVERED: 15% reduction in operational downtime                    ║
+║     ▶ Debugged recurring production line system failures                    ║
+║     ▶ Participated in QA, testing, and release activities                  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🏅 Certifications
 
 <div align="center">
 
@@ -342,8 +393,6 @@ ML model with SQLite backend + Power BI dashboard for property rental price pred
 
 </div>
 
-<br/>
-
 <div align="center">
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Certified-0a0a0a?style=for-the-badge&logo=googlecloud&logoColor=ff6a00)
@@ -354,21 +403,19 @@ ML model with SQLite backend + Power BI dashboard for property rental price pred
 
 ---
 
-## 💼 Work Experience
+## 🌐 Open To
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  ⚙  Research Intern — CDAC Pune                      Dec 2025 – Present │
-│     ▶ Backend modules for real-time simulation systems (HPC)            │
-│     ▶ High-speed data processing pipelines for scientific workloads     │
-│     ▶ Underwater visualization & visual filtering technology            │
-├─────────────────────────────────────────────────────────────────────────┤
-│  🏭  Project Intern — Varroc Engineering Ltd         Feb 2023 – Jun 2023│
-│     ▶ Built automated industrial alerting & monitoring system           │
-│     ▶ Achieved 15% reduction in operational downtime                    │
-│     ▶ Debugged recurring production line system failures                │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+| Role | Mode | Availability |
+|:-----|:-----|:------------:|
+| Backend Engineer | On-site / Hybrid / Remote | Immediate |
+| AI / ML Engineer | Hybrid / Remote | Immediate |
+| IoT & Embedded Systems Engineer | Hybrid / Remote | Immediate |
+| Research Engineer | Any | Immediate |
+| Full-Stack Developer | Remote | Immediate |
+
+</div>
 
 ---
 
@@ -377,33 +424,29 @@ ML model with SQLite backend + Power BI dashboard for property rental price pred
 <div align="center">
 
 <a href="https://linkedin.com/in/mahesh-kharote-64abb7185">
-  <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff6a00&label=MAHESH%20KHAROTE" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-ff6a00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" />
 </a>
 &nbsp;
 <a href="mailto:maheshkharote2580@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ff2020&label=MAHESHKHAROTE2580" />
-</a>
-&nbsp;
-<a href="https://github.com/Mak1003">
-  <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=c0c0c0&label=MAK1003" />
+  <img src="https://img.shields.io/badge/Email-Hire%20Me-ff2020?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" />
 </a>
 &nbsp;
 <a href="https://Mak1003.github.io/mahesh-portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=00ff41&label=LIVE%20SITE" />
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Site-00ff41?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" />
+</a>
+&nbsp;
+<a href="https://github.com/Mak1003?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-All%20Repos-c0c0c0?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" />
 </a>
 
 <br/><br/>
 
-<table>
-<tr>
-<td align="center">📧</td><td><a href="mailto:maheshkharote2580@gmail.com">maheshkharote2580@gmail.com</a></td>
-<td align="center">📍</td><td>India · Open to Hybrid / Remote</td>
-</tr>
-<tr>
-<td align="center">🌐</td><td><a href="https://Mak1003.github.io/mahesh-portfolio">Portfolio Website</a></td>
-<td align="center">📱</td><td>+91 8482876697</td>
-</tr>
-</table>
+| | | |
+|:-:|:-|:-:|
+| 📧 | [maheshkharote2580@gmail.com](mailto:maheshkharote2580@gmail.com) | Reply within 24h |
+| 🌐 | [Mak1003.github.io/mahesh-portfolio](https://Mak1003.github.io/mahesh-portfolio) | Live Portfolio |
+| 💼 | [linkedin.com/in/mahesh-kharote-64abb7185](https://linkedin.com/in/mahesh-kharote-64abb7185) | Let's connect |
+| 📍 | India · Open to Hybrid / Remote | +91 8482876697 |
 
 </div>
 
@@ -412,19 +455,24 @@ ML model with SQLite backend + Power BI dashboard for property rental price pred
 <div align="center">
 
 ```
-// ENGINE ONLINE — Full RPM
-
- ⚙  Backend systems that never sleep
- ⚡  Real-time pipelines running at full torque
- 🤖  AI that thinks faster than the competition
- 🔧  Every problem is just an untuned engine
-
-"Build it fast. Make it smart. Deploy it hard."
-                                  — Mahesh Kharote
+╔══════════════════════════════════════════════════════════════════╗
+║              // ENGINE ONLINE — FULL RPM                         ║
+║                                                                  ║
+║   ⚙  Backend systems built to never sleep                       ║
+║   ⚡  Real-time pipelines running at maximum torque              ║
+║   🤖  AI that thinks faster than the competition                 ║
+║   🔧  Every problem is just an untuned engine                    ║
+║   🚀  Every commit ships toward something real                   ║
+║                                                                  ║
+║   "Build it fast. Make it smart. Deploy it hard."                ║
+║                                       — Mahesh Kharote           ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
+
+**If you've read this far — you should just hire me already.**
 
 <br/>
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=120&section=footer&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=130&section=footer&animation=fadeIn" width="100%" />
 
 </div>
